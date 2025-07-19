@@ -13,9 +13,12 @@ This project was developed as part of my final data analyst training. It explore
 - `dashboard/screenshots/`: Images of the Power BI dashboard
 
 ## 📈 Key Insights
-- Fossil fuels still dominate global energy use
-- Renewable energy is growing faster in Europe and North America
-- CO₂ emissions per capita vary greatly by region
+- Global energy consumption and CO₂ emissions continue to rise, showing that fossil fuels still dominate the energy mix despite ongoing transition efforts.
+- Asia Pacific leads global energy demand growth, driven by industrial expansion, while North America and Europe remain major consumers but with slower growth.
+- China and the U.S . are the top energy consumers and emitters , but countries like Qatar, Singapore, and Iceland lead in per capita energy use.
+- Renewable energy use is increasing , but it is not growing fast enough to displace fossil fuels or reduce total emissions.
+- Emission intensity (CO₂ per unit of energy) is slowly improving , but overall emissions continue to rise, indicating insufficient decarbonization.
+- Sustainability remains a global challenge: clean energy growth is encouraging, but rising energy demand outpaces progress in efficiency and emission reduction.
 
 
 ## 👤 Author
