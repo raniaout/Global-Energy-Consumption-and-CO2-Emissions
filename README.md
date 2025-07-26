@@ -3,14 +3,10 @@
 ## 📘 Project Overview
 This project was developed as part of my final data analyst training. It explores global patterns in energy consumption and carbon dioxide (CO₂) emissions using a public dataset "Statistical Review of World Energy 2022". The goal was to identify trends, compare regions and countries, and support sustainability insights.
 
-## 🛠️ Tools Used
+## 🛠️ Tools
 - Python (Pandas for data cleaning and preparation)
 - Power BI (for analysis and visualisation)
 
-## 📂 Project Files
-- `notebook/analysis.ipynb`: Python notebook for data cleaning and analysis
-- `dashboard/final_report.pbix`: Power BI report file
-- `dashboard/screenshots/`: Images of the Power BI dashboard
 
 ## 📈 Key Insights
 - Global energy consumption and CO₂ emissions continue to rise, showing that fossil fuels still dominate the energy mix despite ongoing transition efforts.
@@ -24,4 +20,4 @@ This project was developed as part of my final data analyst training. It explore
 ## 👤 Author
 Rania OUTAYEB
 Data Analyst Trainee  
-[LinkedIn](https://www.linkedin.com/in/rania-outayeb-9953r997o9953?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Email](rania.outayeb.53@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rania-outayeb-9953r997o9953?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Email](outayeb.rania@gmail.com)
